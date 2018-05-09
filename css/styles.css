@@ -3593,3 +3593,8 @@ p {
 hr[class*='bg'] {
   border-top: 0;
   height: 1px; }
+
+.singl-testimonial-text a {
+  color: white;
+  text-decoration: underline;
+}
